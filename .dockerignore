@@ -1,0 +1,11 @@
+/.cargo
+/.git
+/.github
+/scripts
+/tests
+/.dockerignore
+/.gitignore
+/.travis.yml
+/docker-build-rust-g
+/Dockerfile
+/Rustfmt.toml
